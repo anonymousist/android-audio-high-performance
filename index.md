@@ -21,7 +21,7 @@ Typical use cases
 High-performance audio is required in many applications including:
 
 - Digital Audio Workstations (DAWs)
-- Synthesisers
+- Synthesizers
 - Drum machines
 - Karaoke apps
 - DJ mixing
