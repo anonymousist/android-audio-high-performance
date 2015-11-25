@@ -17,7 +17,7 @@ Many apps need to generate audio as quickly as possible following some input eve
 
 - Digital Audio Workstations (DAWs)
 - Video/Audio conferencing
-- Synthesisers
+- Synthesizers
 - Drum machines
 - Karaoke apps
 - DJ mixing
